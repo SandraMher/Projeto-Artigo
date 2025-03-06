@@ -1,5 +1,5 @@
 # Projeto-Artigo
-Resumo do Funcionamento Banco de Dados: Um Map armazena artigos com seus IDs. Interação com o Usuário: O usuário escolhe entre opções de adicionar curtidas ou consultar artigos. 
+Resumo do Funcionamento Banco de Dados: Armazena artigos com seus IDs. Interação com o Usuário: O usuário escolhe entre opções de adicionar curtidas ou consultar artigos. 
 # Sistema de Curtidas para Artigos de Blog
 
 Este é um programa simples implementado em Java para gerenciar curtidas de artigos em um blog. O programa permite:
