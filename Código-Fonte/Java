@@ -1,0 +1,22 @@
+class Article {
+    private String titulo;
+    private String autor;
+    private String data;
+    private int curtidas;
+
+    public Article(String titulo, String autor, String data, int curtidas) {
+        this.titulo = titulo;
+        this.autor = autor;
+        this.data = data;
+        this.curtidas = curtidas;
+    }
+
+    public void addCurtidas(int qtd) {
+        this.curtidas += qtd;
+    }
+
+    public String getTitulo() { return titulo; }
+    public String getAutor() { return autor; }
+    public String getData() { return data; }
+    public int getCurtidas() { return curtidas; }
+}
